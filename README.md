@@ -1,3 +1,3 @@
 # git-it-done
 
-## Open Source 
+## Open Source Project
